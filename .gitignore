@@ -8,5 +8,5 @@
 *.iml
 /out
 gen
-/test
 /target
+src/test/
